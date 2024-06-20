@@ -14,7 +14,7 @@ Challenge de persistencia de datos utilizando Springboot, Postgresql, y Consumo 
 
 ## Dependencias
 
-Ver archivo pom.xml
+Archivo pom.xml
 
 ## Ejecución
 
