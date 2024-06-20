@@ -21,10 +21,10 @@ Archivo pom.xml
 Crear previamente la base de datos y sus variables de entorno para el correcto funcionamiento. Ver archivo application.properties.
 Descargar, descomprimir archivo, abrir proyecto y ejecutar.
 
-## Ejemplo de ejecución
+## Demostración 
 
 
-https://github.com/Gercodex/literalura_challenge/assets/157858339/b445bb51-5b09-4234-ac03-109c4c5d173b
+https://github.com/Jesus-Alcaraz/literalura/assets/139664430/ce7d5ee9-15bb-422c-b5c1-ef48d99c9d6b
 
 
 ## Contacto
