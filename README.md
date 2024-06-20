@@ -1,8 +1,8 @@
-# literalura_challenge
+# literalura
 
 ## Descripción del proyecto
 
-Challenge de persistencia de datos utilizando Springboot, Postgresql, y Consumo de API gutendex.com que registra datos de libros y autores para el curso backend de java para el programa ONE Oracle y Alura Latam.
+Challenge de persistencia de datos utilizando Springboot, Postgresql, y Consumo de API gutendex.com que registra datos de libros y autores para el curso backend de java para el programa ONE de Oracle y Alura Latam.
 
 ![imagen de menú de opciones en la consola](https://github.com/Gercodex/literalura_challenge/assets/157858339/0432ddde-0954-4f95-8151-161550da656d)
 
@@ -27,10 +27,8 @@ Descargar, descomprimir archivo, abrir proyecto y ejecutar.
 https://github.com/Gercodex/literalura_challenge/assets/157858339/b445bb51-5b09-4234-ac03-109c4c5d173b
 
 
-## Sobre el autor:
-
-https://www.linkedin.com/in/gerardo-gutierrez-rodriguez-37629a196/
-
+## Contacto
+ * [Linkedin](https://www.linkedin.com/in/jesus-alcaraz-)
 
 
 
