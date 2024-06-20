@@ -4,9 +4,7 @@
 
 Challenge de persistencia de datos utilizando Springboot, Postgresql, y Consumo de API gutendex.com que registra datos de libros y autores para el curso backend de java para el programa ONE de Oracle y Alura Latam.
 
-
-<h1 align="center">(https://github.com/Jesus-Alcaraz/literalura/assets/139664430/9e4e4bfd-632f-40e3-9826-d027c8be115b)</h1>
-
+<p align="center"><img src="https://github.com/Jesus-Alcaraz/literalura/assets/139664430/9e4e4bfd-632f-40e3-9826-d027c8be115b"></p>
 
 ## Funcionalidades
 
