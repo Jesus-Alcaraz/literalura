@@ -1,5 +1,10 @@
 <h1 align="center"> LITERALURA </h1>
 
+# Badge
+
+![badge literalura](https://github.com/Jesus-Alcaraz/literalura/assets/139664430/56e98269-c65c-4699-a870-9ab137426379)
+
+
 ## Descripción del proyecto
 
 Challenge de persistencia de datos utilizando Springboot, Postgresql, y Consumo de API gutendex.com que registra datos de libros y autores para el curso backend de java para el programa ONE de Oracle y Alura Latam.
